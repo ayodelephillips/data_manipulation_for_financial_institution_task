@@ -1,0 +1,66 @@
+id,gender,region,salary,DOB,industries
+101,Female,Isle of Man,13000,23937,Transportation and storage
+98,Female,Northern Ireland,127000,28619,Other service activities
+99,Male,Northern Ireland,123000,22342,Real estate activities
+96,Female,Wales,49000,24407,"Water supply, sewerage, waste management and remediation activities"
+104,Male,East Midlands,70000,21511,Human health and social work activities
+106,Female,South West,20000,31700,"Professional, scientific and technical activities"
+682,Male,North West,130000,27730,"Agriculture, Forestry and Fishing"
+684,Female,Scotland,70000,18943,Education
+748,Female,Greater London,29000,20686,"Arts, entertainment and recreation"
+736,Female,Scotland,22000,30840,Real estate activities
+112,Female,East Midlands,62000,29906,"Electricity, gas, steam and air conditioning supply"
+18614,Male,Scotland,55000,29522,"Electricity, gas, steam and air conditioning supply"
+36,Male,East England,137000,24834,Transportation and storage
+37,Female,South East,146000,33219,Administrative and support service activities
+94,Male,East England,65000,31359,Information and communication
+97,Female,Wales,105000,31699,"Electricity, gas, steam and air conditioning supply"
+733,Female,North East,110000,21664,Information and communication
+734,Female,West Midlands,51000,24337,Information and communication
+735,Female,South West,15000,19533,"Water supply, sewerage, waste management and remediation activities"
+737,Female,South East,32000,32976,"Electricity, gas, steam and air conditioning supply"
+738,Female,South East,14000,28769,Accommodation and food service activities
+739,Female,West Midlands,135000,28332,Education
+740,Male,East England,62000,34975,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+741,Female,East England,126000,33624,Transportation and storage
+742,Male,Greater London,33000,19088,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+743,Male,Channel Islands,67000,35118,"Professional, scientific and technical activities"
+744,Male,Isle of Man,39000,37515,Real estate activities
+745,Female,Isle of Man,121000,34488,"Agriculture, Forestry and Fishing"
+746,,Scotland,41000,33489,Mining and Quarrying
+747,Female,South West,72000,26187,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+749,Male,East Midlands,116000,18884,"Arts, entertainment and recreation"
+750,Male,North East,66000,30552,Education
+113,Female,South West,22000,26565,Manufacturing
+117,Female,Isle of Man,140000,19020,"Water supply, sewerage, waste management and remediation activities"
+110,Male,South East,75000,26910,Transportation and storage
+114,Female,East England,86000,24391,Financial and insurance activities
+115,Female,North East,64000,34779,Manufacturing
+116,Male,Wales,38000,29610,"Agriculture, Forestry and Fishing"
+118,Female,East of England,65000,31909,Other service activities
+136,Female,Northern Ireland,108000,20159,"Arts, entertainment and recreation"
+226,Male,South West,83000,31991,Human health and social work activities
+227,Male,Wales,138000,23330,Public administration and defence; compulsory social security
+228,Male,North West,138000,29623,"Water supply, sewerage, waste management and remediation activities"
+229,,Northern Ireland,138000,23669,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+230,Male,East of England,148000,25280,Other service activities
+231,Female,North West,84000,36758,Activities of extraterritorial organisations and bodies
+232,Female,Channel Islands,96000,31145,"Professional, scientific and technical activities"
+233,Female,South West,132000,24670,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+234,Male,North East,113000,25002,Transportation and storage
+235,Female,East England,67000,26947,"Agriculture, Forestry and Fishing"
+236,Male,South West,123000,30706,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+237,Male,East of England,99000,27742,"Electricity, gas, steam and air conditioning supply"
+238,Male,West Midlands,57000,24068,"Agriculture, Forestry and Fishing"
+475,Male,South West,73000,19784,Administrative and support service activities
+7071,Male,South West,126000,21240,"Arts, entertainment and recreation"
+7248,Male,South West,135000,23499,"Arts, entertainment and recreation"
+7249,Male,Isle of Man,144000,29314,Manufacturing
+7253,Female,East England,123000,23149,Construction
+7250,Male,East of England,24000,20649,Financial and insurance activities
+18394,Female,West Midlands,84000,20442,Administrative and support service activities
+18395,Male,East of England,103000,31787,Activities of extraterritorial organisations and bodies
+18618,Male,Wales,55000,19146,Public administration and defence; compulsory social security
+18616,Female,Greater London,120000,35774,Transportation and storage
+7230,Female,North East,28000,27032,Transportation and storage
+18600,Male,South West,79000,34561,Real estate activities
